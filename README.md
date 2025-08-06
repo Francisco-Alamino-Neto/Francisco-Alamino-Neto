@@ -12,7 +12,7 @@
 
 ## Sobre
 
-- SENAI
+- Cursando Análise e Desenvolvimento de Sistemas no SENAI
 
 ## Contato
 
