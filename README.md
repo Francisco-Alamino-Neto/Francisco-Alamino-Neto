@@ -12,7 +12,8 @@
 
 ## Sobre
 
-- Cursando Análise e Desenvolvimento de Sistemas no SENAI
+- Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI;
+- Cursando Análise e Desenvolvimento de SIstemas na UNIP;
 
 ## Contato
 
