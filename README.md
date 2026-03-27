@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=14&duration=3000&color=2AF598&background=000000&center=true&vCenter=true&width=700&lines=>+Inicializando+sistema...;>+Acesso+concedido;>+Bem-vindo+ao+meu+GitHub;>+Carregando+projetos..." />
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/8XKQ0pD/scanline.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=2AF598&background=000000&center=true&vCenter=true&width=700&lines=>+Seja+bem-vindo;>+Sou+Francisco+Alamino+Neto;>+Carregando+projetos..." />
 </p>
 
 <br>
